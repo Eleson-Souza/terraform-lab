@@ -1,4 +1,4 @@
-# Terraform - Resource Behavior, Lifecycle e Meta Arguments
+# Resource Behavior, Lifecycle e Meta Arguments
 
 Este README aborda três conceitos fundamentais do Terraform: **Resource Behavior**, **Lifecycle** e **Meta Arguments**. Esses conceitos ajudam a gerenciar recursos de maneira mais eficiente, oferecendo maior controle sobre como eles são criados, modificados e destruídos.
 
