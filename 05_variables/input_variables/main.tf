@@ -12,7 +12,7 @@ variable "region" {
 }
 
 variable "availability_zones" {
-  description = "List of availables zones"
+  description = "List of available zones"
   type        = list(string)
   default     = ["us-east-1a", "us-east-1b", "us-east-1c"]
 }
