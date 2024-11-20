@@ -1,5 +1,3 @@
-### **README.md**
-
 # terraform-lab
 
 Este repositório contém projetos e exercícios práticos de estudo em **Terraform**, uma ferramenta de **Infrastructure as Code (IaC)** que permite definir, provisionar e gerenciar infraestrutura de forma declarativa.
@@ -89,13 +87,13 @@ terraform-lab/
    terraform init
    ```
 
-5. Formate e validate o código
+5. Formate, valide e analise o código
 
-```bash
-terraform fmt
-terraform validate
-tflint
-```
+    ```bash
+    terraform fmt
+    terraform validate
+    tflint
+    ```
 
 6. Teste as configurações com:
    ```bash
@@ -110,5 +108,3 @@ tflint
 - [Terraform CLI](https://developer.hashicorp.com/terraform/downloads)
 - [VS Code Terraform Extension](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 - [TFLint](https://github.com/terraform-linters/tflint)
-
----
